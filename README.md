@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran Reddy Dyavadi</h1>
-<h3 align="center">I'm AZURE certified Data Scientist, AWS Certified Data Engineer, Alteryx Certified Designer Core with 2.5+ years experience in Data, I love exploring and playing with data to uncover insights and drive innovation.</h3>
+<h3 align="center"> AZURE certified Data Scientist, AWS Certified Data Engineer, Alteryx Certified Designer Core with 2.5+ years experience in Data, I love exploring and playing with data to uncover insights and drive innovation </h3>
 
 - 🔭 I’m currently working on [Number-Plate-Recognition-Using-Yolov8](https://github.com/dyavadi8769/Number-Plate-Recognition-Using-Yolov8)
 
