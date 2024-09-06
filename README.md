@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran Reddy Dyavadi</h1>
 <h3 align="center"> AZURE certified Data Scientist, AWS Certified Data Engineer, Alteryx Certified Designer Core with 2.5+ years experience in Data, I love exploring and playing with data to uncover insights and drive innovation </h3>
 
-- 🔭 I’m currently working on [Number-Plate-Recognition-Using-Yolov8](https://github.com/dyavadi8769/Number-Plate-Recognition-Using-Yolov8)
+- 🔭 I’m currently working on [Intel-Image-Classification-with-PyTorch](https://github.com/dyavadi8769/Intel-Image-Classification-with-PyTorch)
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on [Intel-Image-Classification-with-PyTorch](https://github.com/dyavadi8769/Intel-Image-Classification-with-PyTorch)
+- 👯 I’m looking to collaborate on [Building-e-Commerce-Hive-Data-Warehouse](https://github.com/dyavadi8769/Building-e-Commerce-Hive-Data-Warehouse.git)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/dyavadi8769](https://github.com/dyavadi8769)
