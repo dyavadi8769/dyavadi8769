@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dyavadi8769](https://github.com/dyavadi8769)
 
-- 💬 Ask me about ** Data Analytics, Data Visualization, Machine Learning, Deep Learning, NLP, CV, Big Data, Gen AI**
+- 💬 Ask me about **Data Analytics, Data Visualization, Machine Learning, Deep Learning, NLP, CV, Big Data, Gen AI**
 
 - 📫 How to reach me **dyavadi324@gmail.com**
 
