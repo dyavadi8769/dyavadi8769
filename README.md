@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran Reddy D</h1>
-<h3 align="center"> AWS Certified Solutions Architect Associate, AZURE certified, Scrum Master, Alteryx Certified Designer Core with 3.5+ years experience in Software and Data </h3>
+<h3 align="center"> AWS Certified Solutions Architect Associate, AZURE certified, Scrum Master, Alteryx Certified Designer Core with 3.5+ years experience in Software Engineering </h3>
 
 - 🔭 I’m currently working on [patient-management](https://github.com/dyavadi8769/patient-management.git)
 
